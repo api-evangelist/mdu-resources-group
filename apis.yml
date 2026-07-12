@@ -18,6 +18,10 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mdu-resources-group-domain-security.yml
+  - type: Blog
+    url: https://www.mdu.com/feed/
   - type: Website
     url: https://www.mdu.com
 maintainers:

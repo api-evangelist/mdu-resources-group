@@ -1,7 +1,9 @@
 ---
 title: MDU expands LTIP share pool and updates conduct code
 url: https://www.stocktitan.net/sec-filings/MDU/8-k-mdu-resources-group-inc-reports-material-event-f115bf1b99de.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MDU Resources Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: MDU Resources Group Announces Increased Capital ...
 url: https://www.prnewswire.com/news-releases/mdu-resources-group-announces-increased-capital-investment-plan-for-2026-2030-302622109.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MDU Resources Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -6,21 +6,17 @@
       "feed_url": "https://www.mdu.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null,
-      "error": "fetch_failed: HTTPError"
+      "method": "feed"
     },
     {
       "source": "https://raw.githubusercontent.com/api-evangelist/mdu-resources-group/refs/heads/main/apis.yml",
       "feed_url": "https://raw.githubusercontent.com/api-evangelist/mdu-resources-group/refs/heads/main/apis.yml",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:15:37Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 10,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
